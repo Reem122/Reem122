@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reem</h1>
 <h3 align="center">A passionate machine learning engineer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reem122" alt="reem122" /></a> </p>
-
 - 📫 How to reach me **reemoahmed2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
