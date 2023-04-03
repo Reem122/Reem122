@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Reem</h1>
 <h3 align="center">A passionate machine learning engineer from Egypt</h3>
 
-<p align="center">- 📫 How to reach me <a href="mailto:reemoahmed2002@gmail.com">reemoahmed2002@gmail.com</a></p>
+<p align="center">- 📫 How to reach me <a href="mailto:reemoahmed2002@gmail.com" style="color:white">reemoahmed2002@gmail.com</a></p>
+<p align="center">- 💬 Ask me about **Machine Learning | Robotics | Frontend web development**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
