@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reem Ahmed</h1>
 <h3 align="center">A passionate data analyst & business intelligence developer engineer from Egypt</h3>
 
-<p align="center">Experienced BI Developer and Data Analyst with 6 months of hands-on experience in data analysis, skilled in turning complex data into actionable insights that drive business decisions. Specialized in creating effective tools for better decision-making using SQL, data visualization, and ETL processes. Additionally, proficient in machine learning techniques, enhancing predictive analytics capabilities. Committed to continuous learning and utilizing technology to drive business success.</p>
+<p align="center">Experienced BI Developer and Data Analyst with 6 months of hands-on experience in turning complex data into actionable insights that drive business decisions. Specialized in creating effective tools for better decision-making using SQL, data visualization, and ETL processes. Additionally, proficient in machine learning techniques, enhancing predictive analytics capabilities. Committed to continuous learning and utilizing technology to drive business success.</p>
 
 - 🌱 I’m currently learning **Power BI**
 
