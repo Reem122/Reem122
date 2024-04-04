@@ -18,7 +18,6 @@
 <a href="https://twitter.com/reemo_rere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reemo_rere" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/reem-ahmed-2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reem-ahmed-2002/" height="30" width="40" /></a>
 <a href="https://kaggle.com/reemorere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="reemorere" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/reemorere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reemorere" height="30" width="40" /></a>
 </p>
 </p>
 
