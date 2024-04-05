@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Data Analysis | Business Intelligence | Machine Learning**
 
-- 📫 How to reach me **reemoahmed2002@gmail.com**
+- 📫 How to reach me **reemahmedabdulmonem@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_qr01FyJikUo5R_aZFg_QJucemYdd6Aq/view?usp=sharing](https://drive.google.com/file/d/1_qr01FyJikUo5R_aZFg_QJucemYdd6Aq/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1_qr01FyJikUo5R_aZFg_QJucemYdd6Aq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
